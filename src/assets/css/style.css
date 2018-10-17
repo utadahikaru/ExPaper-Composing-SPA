@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  min-width: 1024px;
+  width: 100%;
+  overflow: auto;
+}
+
+.clearfix {
+  overflow: auto;
+  clear: both;
+}
+
+.ml {
+  margin-left: 12px;
+}
+
+.mr {
+  margin-right: 12px;
+}
+
+.mt {
+  margin-top: 12px;
+}
+
+.mb {
+  margin-bottom: 12px;
+}
+
+.m {
+  margin: 12px;
+}
+
+.search-box {
+  border: 1px dashed #ebeef6;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.single-row-block {
+  background-color: rgba(255, 255, 255, 0.9);
+  margin: 0 60px;
+  padding: 0 40px;
+}
+
+.border-solid {
+  border: solid 1px #ebeef6;
+  padding: 10px;
+}
+
+.border-dashed {
+  border: dashed 1px #ebeef6;
+  padding: 10px;
+}
+
+.div-flex {
+  display: flex;
+}
+
+.div-flex-center {
+  display: flex;
+  align-items: center;
+}
+
+.el-icon-loading {
+  width: 100%;
+  text-align: center;
+  margin: 40px auto;
+  font-size: 32px;
+}
+
+/* 对element组件el-tabs的样式更改，使tabs头部固定 */
+.el-tabs {
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.el-tabs__header {
+  position: absolute;
+  left: 40px;
+  right: 40px;
+  z-index: 1000;
+  background-color: white;
+}
+
+.el-tabs__content {
+  position: absolute;
+  top: 80px;
+  bottom: 30px;
+  left: 40px;
+  right: 40px;
+  overflow: auto;
+}
+
+/* 对element组件el-loading的样式更改，更改透明度（从0.9->0.3） */
+.el-loading-mask {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* 定义用在el-table中的button，如果用el-button会显得行高比较高，不美观 */
+.table-button {
+  margin: 0 6px;
+
+  cursor: pointer;
+
+  color: #2dabe2;
+  border: none;
+  outline: none;
+  background-color: transparent;
+
+  font-size: 14px;
+}

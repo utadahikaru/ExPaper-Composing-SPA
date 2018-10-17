@@ -1,0 +1,238 @@
+{
+  "status_code": "S0000000",
+  "msg": "succeed",
+  "data": [{
+      "exercise_number": "100001",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 4,
+      "exercise_type": 1,
+      "exercise_subject": 3,
+      "exercise_knowledge": ["", "连续"],
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100002",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 3,
+      "exercise_type": 1,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100003",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 4,
+      "exercise_type": 2,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100004",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 2,
+      "exercise_type": 2,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100005",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 1,
+      "exercise_type": 2,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100006",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 2,
+      "exercise_type": 3,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100007",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 3,
+      "exercise_type": 3,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100008",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 4,
+      "exercise_type": 4,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100009",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 2,
+      "exercise_type": 4,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    },
+    {
+      "exercise_number": "100010",
+      "exercise_question": "我是一道数学题呀一道数学题，一道很难很难很难很难很难的数学题，只有最厉害的学霸能征服我",
+      "exercise_keyword": "极限",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 3,
+      "exercise_type": 1,
+      "exercise_subject": 3,
+      "exercise_knowledge": "极限",
+      "organization_id": 1,
+      "exercise_status": "没有状态",
+      "exercise_file": "不知道",
+      "entry_user_id": 2223,
+      "audit_user_id": 3332,
+      "exercise_grade": 5,
+      "create_time": "2018-5-1",
+      "update_time": "2018-5-2"
+    }
+  ]
+}
+
+
+
+
+{
+  "status_code": "S00000000",
+  "msg": "",
+  "data": [{
+      "exercise_number": "100001",
+      "exercise_question": "我是一道数学题呀一道数学题",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 4,
+      "exercise_type": 1,
+      "exercise_knowledge": ["知识点1", "知识点2"],
+      "exam_times": 100, //组卷次数
+      "correct_rate": 0.5, //正确率
+      "create_time": "2018-5-1"
+    },
+    ...
+  ]
+}
+
+{
+  "data": {
+    "list": [{
+      "exercise_number": "100001",
+      "exercise_question": "我是一道数学题呀一道数学题",
+      "exercise_answer": "这道题的答案是：你猜呀",
+      "exercise_analyse": "这道题解析起来很费劲的",
+      "exercise_difficulty": 4,
+      "exercise_type": 1,
+      "exercise_knowledge": ["知识点1", "知识点2"],
+      "exam_times": 100, //组卷次数
+      "correct_rate": 0.5, //正确率
+      "create_time": "2018-5-1"
+    }]
+  },
+  "message": "string",
+  "statusCode": "string"
+}
+
+["100001", "100002", "100003"]
